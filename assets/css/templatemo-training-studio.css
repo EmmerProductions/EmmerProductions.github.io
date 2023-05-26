@@ -1239,7 +1239,11 @@ responsive
   #contact-us .contact-form #contact {
     padding: 30px;
   }
-
+  .smallerMovedLogo{
+    width: 55px;
+    top: -7px;
+    position: relative;
+  }
 }
 
 @media (max-width: 450px) {
